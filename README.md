@@ -9,7 +9,7 @@ Analyzing and comparing real and fake news has become increasingly important in 
 
 ## Data
 
-The dataset consists of about 12,600 articles categorized into real and fake news, saved in two CSV files: "True.csv" and "Fake.csv". Each article includes information such as the title, text, type (real or fake), and publication date. You can find the dataset on Kaggle: [ISOT Fake News Dataset](https://www.kaggle.com/datasets/emineyetm/fakenews-detection-datasets).
+The dataset consists of about 12,600 articles categorized into real and fake news, saved in two CSV files: "True.csv" and "Fake.csv". Each article includes information such as the title, text, type (real or fake), and publication date. You can find the dataset on Kaggle:  https://www.kaggle.com/datasets/emineyetm/fakenews-detection-datasets
 
 ## Data Pre-processing
 
