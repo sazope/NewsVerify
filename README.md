@@ -30,6 +30,17 @@ The pre-processed data is analyzed to gain insights into the articles:
 - Top 50 adjective words in real and fake news articles.
 - Additional statistics for each article, such as total words, content words, capitalized words, exclamation marks, and punctuation marks, are saved in CSV files.
 
-## Interpretation of Results
+## Interpretation of Analysis Results
 
-The analysis results are compared between real and fake news articles. Key findings and insights are provided, such as the similarity in the ratio of capitalized words. Additional analyses are encouraged to better understand the data.
+- **Word Count:** Both real and fake news articles have similar word counts, indicating comparable article lengths.
+
+- **Content Word Count:** The average content word counts are similar, suggesting similar meaningful content in both types.
+
+- **Capitalized Word Count:** Capitalized words are rarely used in both real and fake news articles.
+
+- **Exclamation Mark Count:** Fake news articles use more exclamation marks, indicating a more sensational writing style.
+
+- **Punctuation Count:** Fake news articles use more punctuation marks, suggesting potentially more complex sentences or a sensational writing style.
+
+These findings highlight the linguistic differences between real and fake news articles, offering insights into their writing style and content structure.
+
